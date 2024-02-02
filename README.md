@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**nprz/nprz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nick, I'm a software engineer with over 6 years of experience building performant, simple, and elegant UIs. I've worked on a variety of applications, primarily working with React, React Native, Node JS, and GraphQL. 
 
-Here are some ideas to get you started:
+Some previous products and companies for in the past include: 
+- [Fold](https://foldapp.com/) 
+- [Urbit](https://urbit.org/)
+- [SkySpecs](https://skyspecs.com/)
+- [Sift](https://www.justsift.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some interesting side projects I've worked on: 
+- [react-native-alphabet-slider](https://www.npmjs.com/package/react-native-alphabet-slider)
+- [pleb chat](https://pleb.chat/)
+- [React music visualizer](https://github.com/nprz/react-music-visualizer)
+- [React Game of Life](https://github.com/nprz/game-of-life)
+
+Details on how I built these projects can be found on my website: https://nprz.io/ 
