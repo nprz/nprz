@@ -2,7 +2,7 @@
 
 I'm Nick, I'm a software engineer with over 6 years of experience building performant, simple, and elegant UIs. I've worked on a variety of applications, primarily working with React, React Native, Node JS, and GraphQL. 
 
-Some previous products and companies I've worked for in the past include: 
+Some products and companies I've worked for in the past include: 
 - [Fold](https://foldapp.com/) 
 - [Urbit](https://urbit.org/)
 - [SkySpecs](https://skyspecs.com/)
